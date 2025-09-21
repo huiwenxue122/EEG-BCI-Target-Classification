@@ -44,7 +44,7 @@ The dataset used is the [LTRSVP dataset from PhysioNet](https://physionet.org/ph
 ---
 ## Event Visualization
 
-![ROC Curve per Fold](explore_dataset/Figure_2.png)
+![Events in Status Channel](explore_dataset/Figure_2.png)
 
 **Figure 2.** Event markers extracted from the raw EEG file (`rsvp_5Hz_02a.raw.fif`).  
 - **Red lines** indicate the start and end of each burst (event codes 1000 and 1001).  
