@@ -37,8 +37,8 @@ This script (`roc.py`) generates **ROC curves** and performance reports for sing
 Install with:
 ```bash
 pip install mne numpy pandas scikit-learn matplotlib
+```
 ---
-
 
 ## 📂 Data Naming
 
