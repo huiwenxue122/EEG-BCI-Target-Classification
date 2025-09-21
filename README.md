@@ -64,6 +64,19 @@ ERP waveform (N2pc component):
 ---
 
 ## 📂 Project Structure
+EEG-BCI-Target-Classification/
+├── data/ # (empty) dataset must be downloaded from PhysioNet
+│ └── README.md # instructions for dataset placement
+├── explore_dataset/ # scripts for exploring and visualizing EEG data
+├── results/ # representative figures (ROC, confusion matrix, ERP)
+├── src/ # main source code
+│ ├── main.py # run classification (single-trial left vs right)
+│ ├── new_main_ROC.py # generate ROC curves
+│ ├── Friedman_test.py # Friedman statistical test
+│ ├── Wilcoxon_signed-rank_test_Bonferroni.py # Wilcoxon test with correction
+│ └── roc.py # script to generate ROC with confidence bands
+├── requirements.txt # dependencies
+└── README.md # project documentation
 
 🔗 Reference
 
