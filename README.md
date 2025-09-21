@@ -149,11 +149,11 @@ The single-user AUC medians were 0.77, 0.77, and 0.72 for 5, 6, and 10 Hz, respe
 
 The attenuation of the N2pc at higher rates can be attributed to several non-exclusive factors discussed in the original study:
 
-Increased task difficulty – At higher presentation rates, targets are displayed for a shorter duration, making detection harder. This was reflected in the larger number of missed airplanes reported by participants at 10 Hz.
+1. Increased task difficulty – At higher presentation rates, targets are displayed for a shorter duration, making detection harder. This was reflected in the larger number of missed airplanes reported by participants at 10 Hz.
 
-Refractory phenomena ruled out – A possible refractory period related to repetition blindness or the attentional blink was tested but not supported by the data, as N2pc amplitudes were not significantly bigger for well-separated targets compared to closely spaced targets (p = 0.27).
+2. Refractory phenomena ruled out – A possible refractory period related to repetition blindness or the attentional blink was tested but not supported by the data, as N2pc amplitudes were not significantly bigger for well-separated targets compared to closely spaced targets (p = 0.27).
 
-Fatigue and order effects – Because the conditions were not randomized, the fastest (10 Hz) blocks occurred later in the experiment, when participants were likely more tired and less attentive.
+3. Fatigue and order effects – Because the conditions were not randomized, the fastest (10 Hz) blocks occurred later in the experiment, when participants were likely more tired and less attentive.
 
 Taken together, these results indicate that the decline in classification performance with increasing frequency is primarily explained by increased task difficulty and fatigue effects, rather than by refractory phenomena.
 
