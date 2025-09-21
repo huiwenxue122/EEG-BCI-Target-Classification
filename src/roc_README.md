@@ -59,7 +59,7 @@ If your dataset uses a different event channel, edit the script:
 STIM = 'Status'
 
 ---
-🚀 Usage
+## 🚀 Usage
 Parameters
 Argument	Description	Default
 --data_dir	Data directory	.
@@ -93,7 +93,9 @@ PIDxx_<rate>Hz_ROC_mean_band.png
 
 Results CSV in --data_dir
 
-📊 Output
+---
+
+## 📊 Output
 
 Figures: ROC curves per fold, average ROC with confidence band.
 
@@ -116,7 +118,9 @@ K-fold error → Reduce --kfolds if one class has <10 samples.
 
 No figures generated → Ensure --plot is not off, and --savedir is valid.
 
-🔬 Experimental Notes
+---
+
+## 🔬 Experimental Notes
 
 Outer loop: 10 × random 75/25 splits → auc_mean, auc_std.
 
