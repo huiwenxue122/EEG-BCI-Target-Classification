@@ -38,7 +38,7 @@ Install with:
 ```bash
 pip install mne numpy pandas scikit-learn matplotlib
 
----
+
 
 ## 📂 Data Naming
 
