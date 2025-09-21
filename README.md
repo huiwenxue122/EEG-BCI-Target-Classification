@@ -49,6 +49,15 @@ The dataset used is the [LTRSVP dataset from PhysioNet](https://physionet.org/ph
 ---
 
 ## 📊 Example Results
+
+Average ROC curve with 95% confidence interval (PID02, 5Hz):
+
+![ROC Curve](results/avearge/PID02_5Hz_ROC_mean_band.png)
+
+Summary of classification performance across participants (AUC):
+
+![AUC Summary](results/auc_summary.png)
+
 ROC curve for left vs right classification:
 
 ![ROC Curve](results/roc_auc.png)
