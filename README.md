@@ -50,21 +50,25 @@ The dataset used is the [LTRSVP dataset from PhysioNet](https://physionet.org/ph
 
 ## 📊 Example Results
 
-Average ROC curve with 95% confidence interval (PID02, 5Hz):
+Below are example results for **Participant 02** at **5 Hz** stimulation rate.  
 
-![ROC Curve](results/avearge/PID02_5Hz_ROC_mean_band.png)
+### Per-Fold ROC
+Each colored line represents one fold of a 10-fold cross-validation.  
+AUC values range from ~0.70 to ~0.96, showing variability across folds but overall good performance.
+
+![ROC Curve per Fold](results/PID02_5Hz_ROC_per_fold.png)
+
+### Mean ROC with 95% Confidence Interval
+The figure below shows the averaged ROC curve with a 95% confidence band across folds.  
+The mean AUC is **0.850**, which is consistent with results reported in the original study.
+
+![Mean ROC with CI](results/PID02_5Hz_ROC_mean_band.png)
 
 Summary of classification performance across participants (AUC):
 
 ![AUC Summary](results/auc_summary.png)
 
-ROC curve for left vs right classification:
 
-![ROC Curve](results/roc_auc.png)
-
-Confusion matrix:
-
-![Confusion Matrix](results/confusion_matrix.png)
 
 ERP waveform (N2pc component):
 
