@@ -64,7 +64,7 @@ ERP waveform (N2pc component):
 ---
 
 ## 📂 Project Structure
-\\\
+```
 EEG-BCI-Target-Classification/
 ├── data/ # (empty) dataset must be downloaded from PhysioNet
 │ └── README.md # instructions for dataset placement
@@ -78,7 +78,7 @@ EEG-BCI-Target-Classification/
 │ └── roc.py # script to generate ROC with confidence bands
 ├── requirements.txt # dependencies
 └── README.md # project documentation
-\\\
+```
 ---
 
 ## 🔗 Reference
