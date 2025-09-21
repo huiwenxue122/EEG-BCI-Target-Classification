@@ -64,3 +64,9 @@ ERP waveform (N2pc component):
 ---
 
 ## 📂 Project Structure
+
+🔗 Reference
+
+Matran-Fernandez, A., & Poli, R. (2017).
+Towards the automated localisation of targets in rapid image-sifting by collaborative brain-computer interfaces.
+PLoS ONE 12(5): e0178498. https://doi.org/10.1371/journal.pone.0178498
