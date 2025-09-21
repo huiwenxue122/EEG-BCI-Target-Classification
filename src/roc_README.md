@@ -68,6 +68,8 @@ Argument	Description	Default
 --kfolds	Number of folds for ROC	10
 --band	Type of band for averaged ROC	ci95 or std
 --savedir	Output directory for figures	(same as --data_dir)
+
+
 Example 1: Average ROC + 95% CI
 python roc.py --plot average --band ci95 \
   --data_dir "C:/Users/huiwe/Desktop/BME Lab/new_RSVP/rsvp_mne_files/rsvp_mne_files"
