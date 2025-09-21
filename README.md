@@ -47,37 +47,6 @@ The dataset used is the [LTRSVP dataset from PhysioNet](https://physionet.org/ph
 - Results are consistent with findings in the original paper.  
 
 ---
-
-## 📊 Example Results
-
-### EEG Waveforms (N2pc Component)
-The figure below shows example EEG waveforms at **5 Hz**, extracted from the contra–ipsi electrode differences.  
-- **Blue**: Left visual field (LVF) targets  
-- **Red**: Right visual field (RVF) targets  
-
-The N2pc component is a well-known ERP marker of **spatial attention**, typically appearing around **200–300 ms** after stimulus onset.  
-In this project, we focus on the 200–400 ms window, where contra–ipsi differences over posterior electrodes (PO7–PO8, P7–P8, PO3–PO4, O1–O2) are strongest.  
-These features serve as the basis for single-trial classification.
-
-![EEG Waveforms](explore_dataset/Figure_1001.png)
-
-
-Below are example results for **Participant 02** at **5 Hz** stimulation rate.  
-
-### Per-Fold ROC
-Each colored line represents one fold of a 10-fold cross-validation.  
-AUC values range from ~0.70 to ~0.96, showing variability across folds but overall good performance.
-
-![ROC Curve per Fold](results/both_kfolds/PID02_5Hz_ROC_per_fold.png)
-
-### Mean ROC with 95% Confidence Interval
-The figure below shows the averaged ROC curve with a 95% confidence band across folds.  
-The mean AUC is **0.850**, which is consistent with results reported in the original study.
-
-![Mean ROC with CI](results/avearge/PID02_5Hz_ROC_mean_band.png)
-
-
----
 ## 📊 Results
 
 This project reproduces **single-trial N2pc left-vs-right classification** on the LTRSVP dataset using fixed 10-fold nested cross-validation, following the original paper.
@@ -144,14 +113,31 @@ Conclusion: although 5 Hz tends to give slightly higher AUCs, **no frequency con
 ---
 
 ### Example Figures
-- **EEG waveform (N2pc contra–ipsi difference):**  
-  ![EEG Waveforms](results/example_eeg_waveform.png)
+### EEG Waveforms (N2pc Component)
+The figure below shows example EEG waveforms at **5 Hz**, extracted from the contra–ipsi electrode differences.  
+- **Blue**: Left visual field (LVF) targets  
+- **Red**: Right visual field (RVF) targets  
 
-- **ROC per fold (PID 02, 5 Hz):**  
-  ![ROC per Fold](results/PID02_5Hz_ROC_per_fold.png)
+The N2pc component is a well-known ERP marker of **spatial attention**, typically appearing around **200–300 ms** after stimulus onset.  
+In this project, we focus on the 200–400 ms window, where contra–ipsi differences over posterior electrodes (PO7–PO8, P7–P8, PO3–PO4, O1–O2) are strongest.  
+These features serve as the basis for single-trial classification.
 
-- **Mean ROC with 95% CI band (PID 02, 5 Hz):**  
-  ![Mean ROC](results/PID02_5Hz_ROC_mean_band.png)
+![EEG Waveforms](explore_dataset/Figure_1001.png)
+
+
+Below are example results for **Participant 02** at **5 Hz** stimulation rate.  
+
+### Per-Fold ROC
+Each colored line represents one fold of a 10-fold cross-validation.  
+AUC values range from ~0.70 to ~0.96, showing variability across folds but overall good performance.
+
+![ROC Curve per Fold](results/both_kfolds/PID02_5Hz_ROC_per_fold.png)
+
+### Mean ROC with 95% Confidence Interval
+The figure below shows the averaged ROC curve with a 95% confidence band across folds.  
+The mean AUC is **0.850**, which is consistent with results reported in the original study.
+
+![Mean ROC with CI](results/avearge/PID02_5Hz_ROC_mean_band.png)
 
 ---
 
