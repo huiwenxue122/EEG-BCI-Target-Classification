@@ -50,6 +50,18 @@ The dataset used is the [LTRSVP dataset from PhysioNet](https://physionet.org/ph
 
 ## 📊 Example Results
 
+### EEG Waveforms (N2pc Component)
+The figure below shows example EEG waveforms at **5 Hz**, extracted from the contra–ipsi electrode differences.  
+- **Blue**: Left visual field (LVF) targets  
+- **Red**: Right visual field (RVF) targets  
+
+The N2pc component is a well-known ERP marker of **spatial attention**, typically appearing around **200–300 ms** after stimulus onset.  
+In this project, we focus on the 200–400 ms window, where contra–ipsi differences over posterior electrodes (PO7–PO8, P7–P8, PO3–PO4, O1–O2) are strongest.  
+These features serve as the basis for single-trial classification.
+
+![EEG Waveforms](explore_dataset/Figure_1001.png)
+
+
 Below are example results for **Participant 02** at **5 Hz** stimulation rate.  
 
 ### Per-Fold ROC
