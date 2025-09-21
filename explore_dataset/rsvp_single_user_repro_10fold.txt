@@ -1,0 +1,8 @@
+=== Per-rate summary (median AUC across participants) ===
+5 Hz : median=0.803 | mean=0.789 | n_participants=11
+6 Hz : median=0.772 | mean=0.750 | n_participants=11
+10 Hz : median=0.679 | mean=0.731 | n_participants=10
+
+Done.
+
+[Done] exited with code=0 in 110.287 seconds

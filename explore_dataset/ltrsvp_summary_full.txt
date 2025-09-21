@@ -1,0 +1,836 @@
+Found 64 files.
+
+=== File: rsvp_10Hz_02a.raw.fif ===
+Participant: 02 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_02b.raw.fif ===
+Participant: 02 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_03a.raw.fif ===
+Participant: 03 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_03b.raw.fif ===
+Participant: 03 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_04a.raw.fif ===
+Participant: 04 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_04b.raw.fif ===
+Participant: 04 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_06a.raw.fif ===
+Participant: 06 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_06b.raw.fif ===
+Participant: 06 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_08a.raw.fif ===
+Participant: 08 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_08b.raw.fif ===
+Participant: 08 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_09a.raw.fif ===
+Participant: 09 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_09b.raw.fif ===
+Participant: 09 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_10a.raw.fif ===
+Participant: 10 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_10b.raw.fif ===
+Participant: 10 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_11a.raw.fif ===
+Participant: 11 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_11b.raw.fif ===
+Participant: 11 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_12a.raw.fif ===
+Participant: 12 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_12b.raw.fif ===
+Participant: 12 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_10Hz_13a.raw.fif ===
+Participant: 13 | Run: a | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_10Hz_13b.raw.fif ===
+Participant: 13 | Run: b | Rate: 10 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_02a.raw.fif ===
+Participant: 02 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_02b.raw.fif ===
+Participant: 02 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_03a.raw.fif ===
+Participant: 03 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_03b.raw.fif ===
+Participant: 03 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_04a.raw.fif ===
+Participant: 04 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_04b.raw.fif ===
+Participant: 04 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_06a.raw.fif ===
+Participant: 06 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_06b.raw.fif ===
+Participant: 06 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_08a.raw.fif ===
+Participant: 08 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_08b.raw.fif ===
+Participant: 08 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_09a.raw.fif ===
+Participant: 09 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_09b.raw.fif ===
+Participant: 09 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_10a.raw.fif ===
+Participant: 10 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_10b.raw.fif ===
+Participant: 10 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_11a.raw.fif ===
+Participant: 11 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_11b.raw.fif ===
+Participant: 11 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_12a.raw.fif ===
+Participant: 12 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_12b.raw.fif ===
+Participant: 12 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_13a.raw.fif ===
+Participant: 13 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_13b.raw.fif ===
+Participant: 13 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_5Hz_14a.raw.fif ===
+Participant: 14 | Run: a | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_5Hz_14b.raw.fif ===
+Participant: 14 | Run: b | Rate: 5 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_02a.raw.fif ===
+Participant: 02 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_02b.raw.fif ===
+Participant: 02 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_03a.raw.fif ===
+Participant: 03 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_03b.raw.fif ===
+Participant: 03 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_04a.raw.fif ===
+Participant: 04 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_04b.raw.fif ===
+Participant: 04 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_06a.raw.fif ===
+Participant: 06 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        11
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_06b.raw.fif ===
+Participant: 06 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        11
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_08a.raw.fif ===
+Participant: 08 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_08b.raw.fif ===
+Participant: 08 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_09a.raw.fif ===
+Participant: 09 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_09b.raw.fif ===
+Participant: 09 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_10a.raw.fif ===
+Participant: 10 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_10b.raw.fif ===
+Participant: 10 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_11a.raw.fif ===
+Participant: 11 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_11b.raw.fif ===
+Participant: 11 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_12a.raw.fif ===
+Participant: 12 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_12b.raw.fif ===
+Participant: 12 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_13a.raw.fif ===
+Participant: 13 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_13b.raw.fif ===
+Participant: 13 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== File: rsvp_6Hz_14a.raw.fif ===
+Participant: 14 | Run: a | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=122, max=515, mean=327.4, median=333.5
+Left=30 | Center=51 | Right=39
+
+=== File: rsvp_6Hz_14b.raw.fif ===
+Participant: 14 | Run: b | Rate: 6 Hz
+Sampling rate: 2048.0 Hz | Channels: 9
+Events count:
+kind
+non_target     1080
+target          120
+burst_start      12
+burst_end        12
+Target x: min=115, max=509, mean=330.1, median=332.5
+Left=30 | Center=47 | Right=43
+
+=== Overall Summary ===
+ rate_hz  participant run                  file  sfreq  n_channels  highpass  lowpass  n_events_total  n_burst_start  n_burst_end  n_non_target  n_target  targets_left  targets_right  targets_center
+       5            2   a  rsvp_5Hz_02a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5            2   b  rsvp_5Hz_02b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6            2   a  rsvp_6Hz_02a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6            2   b  rsvp_6Hz_02b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10            2   a rsvp_10Hz_02a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10            2   b rsvp_10Hz_02b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5            3   a  rsvp_5Hz_03a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5            3   b  rsvp_5Hz_03b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6            3   a  rsvp_6Hz_03a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6            3   b  rsvp_6Hz_03b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10            3   a rsvp_10Hz_03a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10            3   b rsvp_10Hz_03b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5            4   a  rsvp_5Hz_04a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5            4   b  rsvp_5Hz_04b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6            4   a  rsvp_6Hz_04a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6            4   b  rsvp_6Hz_04b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10            4   a rsvp_10Hz_04a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10            4   b rsvp_10Hz_04b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5            6   a  rsvp_5Hz_06a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5            6   b  rsvp_5Hz_06b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6            6   a  rsvp_6Hz_06a.raw.fif 2048.0           9      0.15     28.0            1223             12           11          1080       120            30             39              51
+       6            6   b  rsvp_6Hz_06b.raw.fif 2048.0           9      0.15     28.0            1223             12           11          1080       120            30             43              47
+      10            6   a rsvp_10Hz_06a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10            6   b rsvp_10Hz_06b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5            8   a  rsvp_5Hz_08a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5            8   b  rsvp_5Hz_08b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6            8   a  rsvp_6Hz_08a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6            8   b  rsvp_6Hz_08b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10            8   a rsvp_10Hz_08a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10            8   b rsvp_10Hz_08b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5            9   a  rsvp_5Hz_09a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5            9   b  rsvp_5Hz_09b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6            9   a  rsvp_6Hz_09a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6            9   b  rsvp_6Hz_09b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10            9   a rsvp_10Hz_09a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10            9   b rsvp_10Hz_09b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5           10   a  rsvp_5Hz_10a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5           10   b  rsvp_5Hz_10b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6           10   a  rsvp_6Hz_10a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6           10   b  rsvp_6Hz_10b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10           10   a rsvp_10Hz_10a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10           10   b rsvp_10Hz_10b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5           11   a  rsvp_5Hz_11a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5           11   b  rsvp_5Hz_11b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6           11   a  rsvp_6Hz_11a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6           11   b  rsvp_6Hz_11b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10           11   a rsvp_10Hz_11a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10           11   b rsvp_10Hz_11b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5           12   a  rsvp_5Hz_12a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5           12   b  rsvp_5Hz_12b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6           12   a  rsvp_6Hz_12a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6           12   b  rsvp_6Hz_12b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10           12   a rsvp_10Hz_12a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10           12   b rsvp_10Hz_12b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5           13   a  rsvp_5Hz_13a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5           13   b  rsvp_5Hz_13b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6           13   a  rsvp_6Hz_13a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6           13   b  rsvp_6Hz_13b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+      10           13   a rsvp_10Hz_13a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+      10           13   b rsvp_10Hz_13b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       5           14   a  rsvp_5Hz_14a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       5           14   b  rsvp_5Hz_14b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
+       6           14   a  rsvp_6Hz_14a.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             39              51
+       6           14   b  rsvp_6Hz_14b.raw.fif 2048.0           9      0.15     28.0            1224             12           12          1080       120            30             43              47
