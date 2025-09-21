@@ -1,7 +1,4 @@
 # EEG-BCI-Target-Classification
-EEG BCI project for single-trial left vs right target classification.
-
-# EEG-BCI-Target-Classification
 
 This repository contains a reproduction of EEG-based **single-trial left vs right target classification** experiments, based on the paper:
 
@@ -42,11 +39,25 @@ The dataset used is the [LTRSVP dataset from PhysioNet](https://physionet.org/ph
 - **Evaluation Metric**: AUC (Area Under ROC Curve).  
 
 ### 4. Results
-- Single-user BCIs achieved median AUC ≈ **0.75**.  
-- Some participants reached AUC ≥ 0.80 (good single-trial classification).  
 - Results are consistent with findings in the original paper.  
 
 ---
+## Event Visualization
+
+<p align="center">
+  <img src="Figure_2.png" alt="Events in Status channel — rsvp_5Hz_02a.raw.fif" width="600"/>
+</p>
+
+**Figure 2.** Event markers extracted from the raw EEG file (`rsvp_5Hz_02a.raw.fif`).  
+- **Red lines** indicate the start and end of each burst (event codes 1000 and 1001).  
+- **Gray lines** correspond to non-target stimuli (event code 1002).  
+- **Blue lines** represent target events (event codes 1–640).  
+
+This plot illustrates the temporal distribution of target and non-target events across the 5 Hz RSVP sequence, showing how stimuli are grouped into bursts and how targets are interspersed throughout the stream.
+
+---
+
+
 ## 📊 Results
 
 This project reproduces **single-trial N2pc left-vs-right classification** on the LTRSVP dataset using fixed 10-fold nested cross-validation, following the original paper.
