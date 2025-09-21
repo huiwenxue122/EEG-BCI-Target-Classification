@@ -1,0 +1,4 @@
+## Dataset
+This project uses the [LTRSVP EEG dataset](https://physionet.org/physiobank/database/ltrsvp/) from PhysioNet.  
+Due to its large size, the dataset is **not included** in this repository.  
+Please download it directly from PhysioNet and place it under `data/` before running the code.
