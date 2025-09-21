@@ -76,15 +76,7 @@ The mean AUC is **0.850**, which is consistent with results reported in the orig
 
 ![Mean ROC with CI](results/avearge/PID02_5Hz_ROC_mean_band.png)
 
-Summary of classification performance across participants (AUC):
 
-![AUC Summary](results/auc_summary.png)
-
-
-
-ERP waveform (N2pc component):
-
-![ERP](results/erp_waveform.png)
 
 ---
 
