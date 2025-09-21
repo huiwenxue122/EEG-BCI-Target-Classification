@@ -58,6 +58,7 @@ If your dataset uses a different event channel, edit the script:
 
 STIM = 'Status'
 
+---
 🚀 Usage
 Parameters
 Argument	Description	Default
