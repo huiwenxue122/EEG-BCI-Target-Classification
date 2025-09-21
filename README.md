@@ -77,6 +77,89 @@ The mean AUC is **0.850**, which is consistent with results reported in the orig
 ![Mean ROC with CI](results/avearge/PID02_5Hz_ROC_mean_band.png)
 
 
+---
+## 📊 Results
+
+This project reproduces **single-trial N2pc left-vs-right classification** on the LTRSVP dataset using fixed 10-fold nested cross-validation, following the original paper.
+
+### Group-level Performance
+- **5 Hz**: mean AUC = **0.789**, median AUC = 0.803  
+- **6 Hz**: mean AUC = **0.750**, median AUC = 0.772  
+- **10 Hz**: mean AUC = **0.731**, median AUC = 0.679  
+
+Overall, classification performance was highest at **5 Hz**, and decreased slightly at higher stimulus rates.
+
+| Rate (Hz) | Participants | Mean AUC | Median AUC | Std | Min | Max |
+|-----------|--------------|----------|------------|-----|-----|-----|
+| 5 Hz      | 11           | 0.789    | 0.803      | 0.064 | 0.679 | 0.881 |
+| 6 Hz      | 11           | 0.750    | 0.772      | 0.132 | 0.513 | 0.901 |
+| 10 Hz     | 10           | 0.731    | 0.679      | 0.144 | 0.512 | 0.957 |
+
+---
+
+### Participant-level Performance
+Average AUC per participant and rate:
+
+| PID | 5 Hz | 6 Hz | 10 Hz |
+|-----|------|------|-------|
+| 2   | 0.842 | 0.772 | 0.618 |
+| 3   | 0.803 | 0.743 | 0.666 |
+| 4   | 0.850 | 0.901 | 0.861 |
+| 6   | 0.786 | 0.817 | 0.877 |
+| 8   | 0.821 | 0.722 | 0.692 |
+| 9   | 0.757 | 0.538 | 0.653 |
+| 10  | 0.693 | 0.688 | 0.629 |
+| 11  | 0.743 | 0.781 | 0.850 |
+| 12  | 0.881 | 0.881 | 0.957 |
+| 13  | 0.679 | 0.513 | 0.512 |
+| 14  | 0.819 | 0.899 | — |
+
+---
+
+### Cross-validation Consistency
+Inner-CV vs outer test AUCs (mean ± SD):
+
+- Median inner-CV AUCs:  
+  - 5 Hz = **0.83**  
+  - 6 Hz = **0.79**  
+  - 10 Hz = **0.70**  
+- Median outer test AUCs:  
+  - 5 Hz = **0.80**  
+  - 6 Hz = **0.77**  
+  - 10 Hz = **0.68**  
+- Statistical comparison: inner vs outer means differ significantly at 5 Hz and 6 Hz (p=0.04), but not at 10 Hz (p=0.08).  
+
+---
+
+### Between-rate Statistics
+- Friedman test (n=10 participants, comparing 5, 6, 10 Hz):  
+  χ² = 1.40, p = 0.497 → **no significant difference** between rates.  
+- Post-hoc Wilcoxon (Holm correction):  
+  - 5 vs 6 Hz: p = 0.39  
+  - 5 vs 10 Hz: p = 0.39  
+  - 6 vs 10 Hz: p = 1.0  
+
+Conclusion: although 5 Hz tends to give slightly higher AUCs, **no frequency condition was significantly better** than the others statistically.
+
+---
+
+### Example Figures
+- **EEG waveform (N2pc contra–ipsi difference):**  
+  ![EEG Waveforms](results/example_eeg_waveform.png)
+
+- **ROC per fold (PID 02, 5 Hz):**  
+  ![ROC per Fold](results/PID02_5Hz_ROC_per_fold.png)
+
+- **Mean ROC with 95% CI band (PID 02, 5 Hz):**  
+  ![Mean ROC](results/PID02_5Hz_ROC_mean_band.png)
+
+---
+
+### Summary
+- Reproduced the original paper’s finding that **single-trial left-vs-right classification is feasible** with N2pc features.  
+- Median single-user performance reached **AUC ~0.80 at 5 Hz**, with some participants achieving **>0.90**.  
+- Performance was lower at higher rates (6 and 10 Hz), but differences were **not statistically significant**.  
+- Results confirm the robustness of the N2pc marker for spatial attention and its utility in BCI classification tasks.
 
 ---
 
