@@ -56,13 +56,13 @@ Below are example results for **Participant 02** at **5 Hz** stimulation rate.
 Each colored line represents one fold of a 10-fold cross-validation.  
 AUC values range from ~0.70 to ~0.96, showing variability across folds but overall good performance.
 
-![ROC Curve per Fold](results/PID02_5Hz_ROC_per_fold.png)
+![ROC Curve per Fold](results/both_kfolds/PID02_5Hz_ROC_mean_band.png)
 
 ### Mean ROC with 95% Confidence Interval
 The figure below shows the averaged ROC curve with a 95% confidence band across folds.  
 The mean AUC is **0.850**, which is consistent with results reported in the original study.
 
-![Mean ROC with CI](results/PID02_5Hz_ROC_mean_band.png)
+![Mean ROC with CI](results/avearge/PID02_5Hz_ROC_mean_band.png)
 
 Summary of classification performance across participants (AUC):
 
