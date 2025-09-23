@@ -195,6 +195,16 @@ EEG-BCI-Target-Classification/
 ├── requirements.txt # dependencies
 └── README.md # project documentation
 ```
+
+---
+
+## 🚀 Usage
+```
+pip install -r requirements.txt
+cd src
+chmod +x run.sh
+./run.sh
+```
 ---
 
 ## 🔗 Reference
