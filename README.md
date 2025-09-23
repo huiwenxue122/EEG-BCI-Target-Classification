@@ -199,6 +199,7 @@ EEG-BCI-Target-Classification/
 ---
 
 ## 🚀 Usage
+Install dependencies and run the full EEG ML pipeline:
 ```
 pip install -r requirements.txt
 cd src
