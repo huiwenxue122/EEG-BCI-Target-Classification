@@ -191,6 +191,7 @@ EEG-BCI-Target-Classification/
 │ ├── Friedman_test.py # Friedman statistical test
 │ ├── Wilcoxon_signed-rank_test_Bonferroni.py # Wilcoxon test with correction
 │ └── roc.py # script to generate ROC with confidence bands
+│ └── run.sh
 ├── requirements.txt # dependencies
 └── README.md # project documentation
 ```
